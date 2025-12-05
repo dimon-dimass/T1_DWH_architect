@@ -1,0 +1,1 @@
+select schema20.stg_fill_ref_tbls();

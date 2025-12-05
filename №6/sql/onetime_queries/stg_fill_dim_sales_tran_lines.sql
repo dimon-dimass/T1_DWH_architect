@@ -1,0 +1,1 @@
+select schema20.stg_fill_dim_sales_transaction_line('2000-01-01', '2023-11-30');
